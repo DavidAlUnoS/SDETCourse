@@ -17,5 +17,20 @@ namespace SDETCourseBasicsOfOOP.Humano
         {
             Console.WriteLine("Respirando");
         }
+
+        internal void sds()
+        { 
+            Console.WriteLine("Respirando");
+        }
+
+        internal void sdadsa()
+        {
+            Console.WriteLine("Respirando");
+        }
+
+        internal void asdasdas()
+        {
+            Console.WriteLine("Respirando");
+        }
     }
 }
